@@ -6,6 +6,9 @@ namespace C__Practice
     {
         static void Main(string[] args)
         {
+            // Console Title
+            Console.Title = "Hello World, let's tell a story";
+
             // Initialize Variables
             string firstName;
             string lastName;
@@ -20,14 +23,22 @@ namespace C__Practice
             // Console will then respond with the first and last names in a complete sentence.
             Console.WriteLine("Your full name is " + firstName + " " + lastName + ". It's nice to meet you!");
 
-            // Program will then ask for two numbers which are bing converted from String to Int.
-            // Line 29 adds the two converted numbers and 30 is logging the sum. 
-            Console.WriteLine("Now, we're going to do math. Enter a number:");
-            int firstNumber = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Now enter a second number:");
-            int secondNumber = Convert.ToInt32(Console.ReadLine());
-            int sum = firstNumber + secondNumber;
-            Console.WriteLine("The sum of your two numbers is: " + sum);
+            // The user will now use variables to tell a story.
+            Console.WriteLine("Time to tell a story! Fill in the blanks to tell your own story.");
+
+            Console.WriteLine("Once upon a time, there was a person named...");
+            string character = Console.ReadLine();
+            Console.WriteLine(character + " decided today was the day for an adventure.\n One day on their adventure, they stumbled upon...");
+            string item = Console.ReadLine();
+            Console.WriteLine("With " + item + " in hand, they set out to defeat...");
+            string enemy = Console.ReadLine();
+            Console.WriteLine(character + " fought bravely with " + item + ". In the end they defeated " + enemy + ".\nVictory seemed assured but suddenly a monster attacked! Their name was...");
+            string monster = Console.ReadLine();
+            Console.WriteLine(monster + " was bent on defeating our hero,\n but they both decided it was too much effort and agreed to just eat pizza and play video games.\n In the end, they learned...");
+            string moral = Console.ReadLine();
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine(moral + ". That's the end! Goodbye(press any key to end)");
+            Console.ReadKey();
 
 
         }
