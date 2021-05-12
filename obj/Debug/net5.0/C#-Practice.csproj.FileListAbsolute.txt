@@ -1,0 +1,16 @@
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\bin\Debug\net5.0\C#-Practice.exe
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\bin\Debug\net5.0\C#-Practice.deps.json
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\bin\Debug\net5.0\C#-Practice.runtimeconfig.json
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\bin\Debug\net5.0\C#-Practice.runtimeconfig.dev.json
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\bin\Debug\net5.0\C#-Practice.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\bin\Debug\net5.0\ref\C#-Practice.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\bin\Debug\net5.0\C#-Practice.pdb
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\obj\Debug\net5.0\C#-Practice.csprojAssemblyReference.cache
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\obj\Debug\net5.0\C#-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\obj\Debug\net5.0\C#-Practice.AssemblyInfoInputs.cache
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\obj\Debug\net5.0\C#-Practice.AssemblyInfo.cs
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\obj\Debug\net5.0\C#-Practice.csproj.CoreCompileInputs.cache
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\obj\Debug\net5.0\C#-Practice.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\obj\Debug\net5.0\ref\C#-Practice.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\obj\Debug\net5.0\C#-Practice.pdb
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-Practice\obj\Debug\net5.0\C#-Practice.genruntimeconfig.cache
